@@ -1,0 +1,10 @@
+.carousel-indicators li {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #373a3c;
+    }
+
+ol {
+   top: 200px;
+}
